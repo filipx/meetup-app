@@ -1,0 +1,15 @@
+.pointer {
+    cursor: pointer;
+}
+.btn {
+  margin-left: 0;
+}
+
+/*********************
+  RESPONSIVE styles
+*********************/
+@media screen and (max-width: 960px) {
+  .card.picker {
+    margin: 0 auto;
+  }
+}
